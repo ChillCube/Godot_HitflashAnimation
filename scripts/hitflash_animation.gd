@@ -4,7 +4,7 @@ class_name HitFlash
 
 @export var length : float = 0.05; ## defines how long a flash should last
 @export var amount : int = 3; ## defines how many flashes there should be
-@export var flash_color : Color = Color.TRANSPARENT
+@export var flash_color : Color = Color.TRANSPARENT ## defines what colour the flash should have
 
 signal flash_started
 signal flash_ended

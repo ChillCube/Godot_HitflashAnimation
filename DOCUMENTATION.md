@@ -20,6 +20,7 @@ This node is attached to a sprite or animated sprite to create a hitlflash effec
 | :--- | :--- | :--- | :--- |
 | **length** | `float` | `0.05` | defines how long a flash should last |
 | **amount** | `int` | `3` | defines how many flashes there should be |
+| **flash_color** | `Color` | `Color.TRANSPARENT` | defines what colour the flash should have |
 
 ---
 
