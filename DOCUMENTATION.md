@@ -1,4 +1,4 @@
-# Godot HitflashAnimation API Reference
+# Godot_HitflashAnimation API Reference
 Generated: 2026-03-09
 
 A godot addon that can be used to apply hitlfash animations to nodes
