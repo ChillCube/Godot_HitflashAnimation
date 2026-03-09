@@ -1,10 +1,10 @@
-# Godot HitflashAnimation
+# Godot_HitflashAnimation
 
 A godot addon that can be used to apply hitlfash animations to nodes
 
 ## 📥 Installation
 ### Linux / MacOS
-Copy and paste this command into your terminal at the project root:
+Copy and paste these commands into terminal at the root of your project:
 ```bash
 clone-gd-addon https://github.com/ChillCube/Godot_HitflashAnimation.git
 ```
