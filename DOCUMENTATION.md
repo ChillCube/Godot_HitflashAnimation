@@ -3,7 +3,7 @@ Generated: 2026-03-09
 
 A godot addon that can be used to apply hitlfash animations to nodes
 
-## 📦 Dependencies
+### 📦 Dependencies
 
 | Source | Reference | Repository |
 | :--- | :--- | :--- |
