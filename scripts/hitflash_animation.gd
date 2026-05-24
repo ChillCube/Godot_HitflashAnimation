@@ -18,4 +18,3 @@ func flash(_length : float = length, _amount : int = amount):
 		await get_tree().create_timer(_length).timeout
 		_length *= 1.5
 	emit_signal("flash_ended")
-
